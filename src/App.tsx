@@ -1,5 +1,5 @@
-import { Navigation } from '@your-org/component-library'
-import '@your-org/component-library/styles'
+import { Navigation } from '@justin-sew/component-library'
+import '@justin-sew/component-library/styles'
 import './App.css'
 
 function App() {
