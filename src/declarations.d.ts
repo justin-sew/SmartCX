@@ -1,1 +1,1 @@
-declare module '@your-org/component-library/styles'
+declare module '@justin-sew/component-library/styles'
