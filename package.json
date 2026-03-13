@@ -10,7 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@justin-sew/component-library": "github:justin-sew/component-library",
+    "@justin-sew/component-library": "https://github.com/justin-sew/component-library",
+    "@your-org/component-library": "https://github.com/justin-sew/component-library",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
